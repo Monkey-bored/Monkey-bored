@@ -1,7 +1,7 @@
 ### 👋 Hello there:
 🐵 I'm Monkey-bored <br/> 
 ♟ I'm currently working on [Chess-but-better](https://github.com/Ido-Barnea/Chess-But-Better) and a couple of private projects <br/> 
-👨‍💻 I was part of the MEY MonkeyBall team in CodeGuru Xtreme 2021 which won 8th place <br/>
+👨‍💻 I was part of the MEY MonkeyBall team in CodeGuru Xtreme 2022 which won 8th place <br/>
 🤓 I use arch linux btw <br/>
 💼 I'm happy to contribute to any project <br/> 
 
